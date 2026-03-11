@@ -39,3 +39,11 @@ Herramienta web para introducir a estudiantes de primer ciclo de ingeniería de 
 - Luego: verificar con la herramienta
 - Finalmente: reflexionar sobre diferencias
 
+### 💡 Posibles Extensiones Futuras
+| Mejora                                 | Prioridad |
+| -------------------------------------- | --------- |
+| Exportar PNG/SVG desde PlantUML        | Media     |
+| Detectar más patrones (Adapter, Proxy) | Baja      |
+| Soporte multi-archivo                  | Baja      |
+| Validaciones de calidad (métricas)     | Media     |
+
