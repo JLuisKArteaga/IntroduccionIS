@@ -28,5 +28,13 @@ Herramienta web para introducir a estudiantes de primer ciclo de ingeniería de 
 | No edición visual        | Enfoca en código fuente como fuente de verdad        |
 | Sin validación semántica | Solo estructura, no corrige diseño                   |
 
-
+###🎓 Recomendación de Uso
+**Para docentes:**
+- Ejemplos progresivos: clases simples → herencia → composición → patrones
+- Comparar: código Python vs. diagrama UML generado
+- Discutir: "¿Por qué la herramienta detectó este patrón?"
+**Para estudiantes:**
+- Primero: dibujar UML a mano
+- Luego: verificar con la herramienta
+- Finalmente: reflexionar sobre diferencias
 
