@@ -33,6 +33,7 @@ Herramienta web para introducir a estudiantes de primer ciclo de ingeniería de 
 - Ejemplos progresivos: clases simples → herencia → composición → patrones
 - Comparar: código Python vs. diagrama UML generado
 - Discutir: "¿Por qué la herramienta detectó este patrón?"
+  
 **Para estudiantes:**
 - Primero: dibujar UML a mano
 - Luego: verificar con la herramienta
