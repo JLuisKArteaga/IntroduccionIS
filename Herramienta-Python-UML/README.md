@@ -20,4 +20,13 @@ Herramienta web para introducir a estudiantes de primer ciclo de ingeniería de 
 | **Introducción a patrones** | Descubre posibles patrones sin buscarlos         |
 | **Documentación**           | Genera diagramas para reportes técnicos          |
 
+### ⚠️ Limitaciones (intencionales)
+| Limitación               | Justificación                                        |
+| ------------------------ | ---------------------------------------------------- |
+| Detección conservadora   | Evita falsos positivos que confundan a principiantes |
+| Solo 4 patrones          | Suficiente para "fase de conocimiento", no saturar   |
+| No edición visual        | Enfoca en código fuente como fuente de verdad        |
+| Sin validación semántica | Solo estructura, no corrige diseño                   |
+
+
 
