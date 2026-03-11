@@ -19,3 +19,5 @@ Herramienta web para introducir a estudiantes de primer ciclo de ingeniería de 
 | **Revisión de código**      | Identifica relaciones implícitas no documentadas |
 | **Introducción a patrones** | Descubre posibles patrones sin buscarlos         |
 | **Documentación**           | Genera diagramas para reportes técnicos          |
+
+
